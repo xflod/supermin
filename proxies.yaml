@@ -1,6 +1,6 @@
 proxies:
 - name: 1 🇦🇹 Schokker IT WS TLS [xda]
-  server: xda.tamusuvi.workers.dev
+  server: 172.67.5.14
   port: 443
   type: vless
   uuid: ac9a4ba8-5590-494a-a3a7-217d9be740cb
