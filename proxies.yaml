@@ -15,7 +15,7 @@ proxies:
       Host: xda.tamusuvi.workers.dev
   udp: true
 - name: 1 🇦🇺 Oracle Cloud WS TLS [xda]
-  server: 172.7.5.14
+  server: 172.67.5.14
   port: 443
   type: vless
   uuid: 2e85a4c4-599f-4808-85c1-3ff17624f2ae
