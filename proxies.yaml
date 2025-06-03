@@ -1,0 +1,16 @@
+proxies:
+- name: 1 🇦🇹 Schokker IT WS TLS [xda]
+  server: xda.tamusuvi.workers.dev
+  port: 443
+  type: vless
+  uuid: ac9a4ba8-5590-494a-a3a7-217d9be740cb
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  network: ws
+  servername: xda.tamusuvi.workers.dev
+  ws-opts:
+    path: /185.155.220.64-443
+    headers:
+      Host: xda.tamusuvi.workers.dev
+  udp: true
